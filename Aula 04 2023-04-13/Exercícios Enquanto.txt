@@ -1,0 +1,30 @@
+Visual G: bit.ly/4arwPxg
+GitHub: bit.ly/4a5cE8S
+
+Ex. 1: Solicitar o nome, nota1, nota2, nota3 de 5 pessoas apresentando a média
+Ex. 2: Solicitar para 5 pessoas o nome, idade, peso, altura e
+       apresentar o imc de cada um deles
+Ex. 3: Solicitar 10 letras, apresentando a quantidade de vogais e consoantes
+Ex. 4: Solicitar 5 números e apresentar
+        - Quantidade de neutros
+        - Quantidade de pares
+        - Quantidade de negativos
+        - Quantidade de positivos
+Ex. 5: Solicitar números até o usuário não desejar cadastrar mais
+        - Maior número
+        - Menor número
+
+
+
+
+
+
+
+
+
+
+
+// Ex. 3: Solicitar para 5 alunos o nome e 4 notas, apresentando a sua média
+//        No final apresentar:
+//        Menor nota, Maior nota, maior média das notas, menor média das notas
+//        Quantidade de alunos que estão aprovados e reprovados
