@@ -1,4 +1,4 @@
-Exercícios Aula 07
+# Exercícios Aula 07
 
 ## Exercício 01 Criar um algoritmo que faça soma, subtração, multiplicação e divisão de dois números
 Criar os seguintes procedimentos:
